@@ -1,0 +1,7 @@
+it:
+  spree:
+    invoice: Fattura
+    show: visualizza
+    download: PDF
+    print_invoice: Stampa fattura
+    no_such_order_found: "Questo ordine non è stato trovato."

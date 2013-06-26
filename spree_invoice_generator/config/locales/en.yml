@@ -1,0 +1,7 @@
+en:
+  spree:
+    invoice: Invoice
+    show: show
+    download: PDF
+    print_invoice: Print Invoice
+    no_such_order_found: "No such order found."
